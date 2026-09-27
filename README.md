@@ -27,7 +27,9 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diad
 
 ### 📌 Projetos em Destaque
 
-- 📚 **[Trocabook](https://github.com/PedroAmaralMa)** – Plataforma para troca e venda de livros focada na reutilização de recursos (alinhada à ODS 12 da ONU), com arquitetura organizada e integração com APIs REST.
+- 📚 **Trocabook** – Plataforma para troca e venda de livros focada na reutilização de recursos (alinhada à ODS 12 da ONU), com arquitetura organizada e integração com APIs REST.
+  - 🌐 [Trocabook Web](https://github.com/Viniacamp/Trocabook-web)
+  - 📱 [Trocabook Mobile](https://github.com/Viniacamp/Trocabook-mobile)
 
 ---
 
@@ -35,8 +37,8 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diad
 
 <div align="center">
   <a href="https://github.com/PedroAmaralMa">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroAmaralMa&show_icons=true&theme=tokyonight&include_all_commits=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAmaralMa&layout=compact&theme=tokyonight&langs_count=8" />
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroAmaralMa&show_icons=true&theme=tokyonight&include_all_commits=true" />
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroAmaralMa&layout=compact&theme=tokyonight&langs_count=8" />
   </a>
 </div>
 
