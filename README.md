@@ -5,8 +5,8 @@
 Olá, me chamo **Pedro Amaral Machado**!
 Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diadema** e desenvolvedor focado em **Aplicações Mobile & Back-End**.
 
-- 📱 Desenvolvo aplicações mobile nativas em **Android Studio** utilizando arquitetura **MVC**.
-- ⚙️ Experiência em desenvolvimento Back-End com **Java** e **Spring Boot**, criação e integração de **APIs REST**.
+- 📱 Desenvolvo aplicações mobile nativas em **Android Studio** aplicando boas práticas de arquitetura (**MVC / MVVM**) e consumo de **APIs REST**.
+- ⚙️ Experiência em desenvolvimento Back-End com **Java** e **Spring Boot**, criação e integração de APIs e microsserviços.
 - 🗄️ Conhecimentos em bancos de dados relacionais (**SQL**) e não relacionais (**NoSQL**).
 - 🚀 Participante ativo de maratonas de programação (**InterFatecs**) e **Hackathons**.
 
@@ -45,7 +45,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diad
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroAmaralMa&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.bhollier.com/graph?username=PedroAmaralMa&theme=github-dark" width="100%" />
 </p>
 
 ---
