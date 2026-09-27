@@ -45,7 +45,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diad
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroAmaralMa&theme=github-dark" width="100%" />
+  <img src="https://github-readme-activity-graph.bhollier.com/graph?username=PedroAmaralMa&theme=github-dark" width="100%" />
 </p>
 
 ---
