@@ -60,7 +60,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diad
 
 ---
 
-### 📫 Entre em contato comigo:
+### Entre em contato comigo:
 
 <div align="center">
   <a href="mailto:pedroamaralmachado423@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
