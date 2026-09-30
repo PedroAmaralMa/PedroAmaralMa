@@ -1,18 +1,18 @@
-# Olá! Seja bem-vindo(a) ao meu perfil! 👋
+# Olá! Seja bem-vindo(a) ao meu perfil!
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Olá, me chamo **Pedro Amaral Machado**!
 Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diadema** e desenvolvedor focado em **Aplicações Mobile & Back-End**.
 
-- 📱 Desenvolvo aplicações mobile nativas em **Android Studio** aplicando boas práticas de arquitetura (**MVC / MVVM**) e consumo de **APIs REST**.
-- ⚙️ Experiência em desenvolvimento Back-End com **Java** e **Spring Boot**, criação e integração de APIs e microsserviços.
-- 🗄️ Conhecimentos em bancos de dados relacionais (**SQL**) e não relacionais (**NoSQL**).
-- 🚀 Participante ativo de maratonas de programação (**InterFatecs**) e **Hackathons**.
+- Desenvolvo aplicações mobile nativas em **Android Studio** aplicando boas práticas de arquitetura (**MVC / MVVM**) e consumo de **APIs REST**.
+- Experiência em desenvolvimento Back-End com **Java** e **Spring Boot**, criação e integração de APIs e microsserviços.
+- Conhecimentos em bancos de dados relacionais (**SQL**) e não relacionais (**NoSQL**).
+- Participante ativo de maratonas de programação (**InterFatecs**) e **Hackathons**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 - **Front-End & Mobile**:
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,html,css,js)](https://skillicons.dev)
@@ -25,7 +25,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diad
 
 ---
 
-### 📌 Projetos em Destaque
+### Projetos em Destaque
 
 - 📚 **Trocabook** – Plataforma para troca e venda de livros focada na reutilização de recursos (alinhada à ODS 12 da ONU), com arquitetura organizada e integração com APIs REST.
   - 🌐 [Trocabook Web](https://github.com/Viniacamp/Trocabook-web)
@@ -33,7 +33,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diad
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### Minhas Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/PedroAmaralMa">
@@ -50,7 +50,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diad
 
 ---
 
-### 🐍 Animação de Contribuições
+### Animação de Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroAmaralMa/PedroAmaralMa/output/github-contribution-grid-snake-dark.svg">
